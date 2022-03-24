@@ -1,15 +1,15 @@
 {
   "version": 2,
   "env": {
-    "GATSBY_SHOP_NAME": "your_shopify_shop_name",
-    "GATSBY_SHOPIFY_ACCESS_TOKEN": "your_shopify_storefront_access_token",
-    "GATSBY_PRISMIC_REPOSITORY": "your_prismic_repository_name"
+    "GATSBY_SHOP_NAME": "kudosupermarket",
+    "GATSBY_SHOPIFY_ACCESS_TOKEN": "50da00056fb504e306b28b9b81cabf30",
+    "GATSBY_PRISMIC_REPOSITORY": "kudosupermarket"
   },
   "build": {
     "env": {
-      "GATSBY_SHOP_NAME": "your_shopify_shop_name",
-      "GATSBY_SHOPIFY_ACCESS_TOKEN": "your_shopify_storefront_access_token",
-      "GATSBY_PRISMIC_REPOSITORY": "your_prismic_repository_name"
+      "GATSBY_SHOP_NAME": "kudosupermarket",
+      "GATSBY_SHOPIFY_ACCESS_TOKEN": "50da00056fb504e306b28b9b81cabf30",
+      "GATSBY_PRISMIC_REPOSITORY": "kudosupermarket"
     }
   }
 }
