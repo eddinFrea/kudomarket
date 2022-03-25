@@ -5,8 +5,8 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `PICKSY.`,
-    description: `Kick off your next jamstack ecommerce web app with this PICKSY.`,
+    title: `Kudo`,
+    description: `Livraison marchandises a Agadir.`,
     author: `@redq`,
   },
   plugins: [
@@ -77,8 +77,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Picksy`,
-        short_name: `Picksy`,
+        name: `Kudo`,
+        short_name: `Kudo`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#292929`,
