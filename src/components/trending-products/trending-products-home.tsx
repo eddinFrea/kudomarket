@@ -51,7 +51,7 @@ const TrendingProductsHome: React.FC<{ withLink?: boolean }> = ({
 				<ProductGrid
 					id="trendingProducts"
 					withLink={withLink}
-					gridTitle="Trending Product"
+					gridTitle="Produit tendance"
 					products={products}
 				/>
 			);
