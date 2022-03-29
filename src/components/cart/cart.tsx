@@ -60,7 +60,7 @@ const Cart: React.FunctionComponent<{ onClick?: () => void }> = ({
 					</Button>
 				) : (
 					<Button onClick={handleCheckout}>
-						{updating ? 'Loading ...' : 'Proceed to checkout'}
+						{updating ? 'Chargement en cours ...' : 'Passer à la caisse'}
 					</Button>
 				)}
 			</Box>
