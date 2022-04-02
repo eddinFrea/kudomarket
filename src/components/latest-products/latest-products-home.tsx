@@ -48,7 +48,7 @@ const LatestProductsHome = () => (
 			return (
 				<ProductGrid
 					id="latestProducts"
-					gridTitle="Latest Product"
+					gridTitle="Nouveaux produits"
 					products={products}
 				/>
 			);

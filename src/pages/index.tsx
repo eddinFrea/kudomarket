@@ -71,7 +71,7 @@ const IndexPage: React.FC<{}> = () => (
 
 			return (
 				<PrimaryLayout>
-					<SEO title="Home" />
+					<SEO title="Accueil" />
 					{/* End of home seo */}
 					<HomeBanner
 						banner={banner}

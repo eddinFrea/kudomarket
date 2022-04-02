@@ -7,7 +7,7 @@ module.exports = {
   siteMetadata: {
     title: `Kudo`,
     description: `Livraison marchandises a Agadir.`,
-    author: `@redq`,
+    author: `@kudo`,
   },
   plugins: [
     `gatsby-plugin-typescript`,

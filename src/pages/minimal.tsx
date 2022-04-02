@@ -105,7 +105,7 @@ const IndexPage: React.FC<{}> = () => (
 					pathPrefix="/minimal/collection"
 					showNoticeBar={false}
 				>
-					<SEO title="Home" />
+					<SEO title="Accueil" />
 					{/* End of home seo */}
 
 					<HomeBanner
